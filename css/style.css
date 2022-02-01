@@ -1,0 +1,55 @@
+
+body {
+    font-size: 15px;
+    color: #111;
+    font-family: Montserrat, sans-serif;
+    background-color: #efefef;
+  }
+  h1 {
+    font-size: 2.5rem;
+    font-weight:900;
+    text-align: center;
+  }
+  h2 {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  h3 {
+    font-size: 1.2rem;
+  }
+  p {
+    font-size: 1.2rem;
+  }
+  
+  #title {
+    margin-top: 40px;
+      text-align: center; 
+  }
+  .margin-top-10 {
+    margin-top: 10px;
+  }
+  .margin-top-15 {
+    margin-top: 15px;
+  }
+  .margin-top-40 {
+    margin-top: 40px;
+  }
+  .image {
+    text-align: center;
+    background-color: white;
+    padding-bottom: 12px;
+  }
+  .quote {
+    text-align: left;
+    background-color: white;
+    padding: 20px;
+  }
+  #tribute-info {
+    margin: auto;
+    max-width: 50%;
+    line-height: 2;
+  }
+  .footer {
+    text-align: center;
+    padding: 20px;
+  }
